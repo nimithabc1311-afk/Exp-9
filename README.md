@@ -3,9 +3,8 @@
 |---|---|
 | **Name** | Nimitha BC |
 | **USN** | 25MCAR0132 |
-| **Course** | MCA, Jain University |
-| **Lab** | Mobile Application Development (MAD Lab) |
-| **Platform** | Android Studio, Kotlin |
+| **Course** | MCA |
+|**Experiment**| 7 |
 
 ---
 
