@@ -1,6 +1,5 @@
 # Experiment 9: Demonstrate Data Persistence Using SharedPreferences and SQLite
 
-|---|---|
 | **Name** | Nimitha BC |
 | **USN** | 25MCAR0132 |
 | **Course** | MCA |
@@ -86,14 +85,10 @@ Experiment9/
 ---
 
 ## 5. Output
+<img width="718" height="1598" alt="WhatsApp Image 2026-10-16 at 1 18 39 PM" src="https://github.com/user-attachments/assets/be8309df-0456-4969-b5ec-af454b51abd6" />
 
-<!-- Replace output.png in the screenshots folder with your own screenshot -->
 
-![Output Screenshot](screenshots/output.png)
 
-<br><br><br><br>
-
----
 
 ## 6. Test Cases
 
@@ -107,11 +102,11 @@ Experiment9/
 
 **Screenshot:**
 
-![Test Case 1](screenshots/test1_profile.png)
+<img width="718" height="1598" alt="WhatsApp Image 2026-10-16 at 1 18 39 PM" src="https://github.com/user-attachments/assets/f3d409fb-c6e3-4881-ba57-fad45513ea7d" />
+<img width="718" height="1598" alt="WhatsApp Image 2026-10-16 at 1 18 39 PM" src="https://github.com/user-attachments/assets/17f149e5-10d0-4060-8c9b-e1f82955806d" />
 
-<br><br><br><br>
 
----
+
 
 ### Test Case 2: Add, edit and delete notes (SQLite)
 
@@ -123,27 +118,9 @@ Experiment9/
 
 **Screenshot:**
 
-![Test Case 2](screenshots/test2_notes.png)
+<img width="718" height="1598" alt="WhatsApp Image 2026-10-16 at 1 18 41 PM" src="https://github.com/user-attachments/assets/817da943-93c4-4018-9e16-cfcc52233598" />
+<img width="718" height="1598" alt="WhatsApp Image 2026-10-16 at 1 18 42 PM (1)" src="https://github.com/user-attachments/assets/5cba47aa-64f1-41d3-b1a1-dd446e70f19b" />
 
-<br><br><br><br>
-
----
-
-### Test Case 3: Data persists after closing and reopening the app
-
-| | |
-|---|---|
-| **Input** | Swipe the app away from recent apps, then open it again |
-| **Expected result** | Name, USN and notes are restored automatically and the "App opened" counter has increased |
-| **Status** | Pass |
-
-**Screenshot:**
-
-![Test Case 3](screenshots/test3_persistence.png)
-
-<br><br><br><br>
-
----
 
 ## 8. Conclusion
 
